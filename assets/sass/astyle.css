@@ -1,0 +1,14 @@
+.upload-area {
+  width: 100%;
+  background-color: aquamarine;
+  height: 400px;
+  border: 1px  dashed black;
+  text-align: center;
+}
+
+.upload-area .fa-cloud-arrow-up {
+  font-size: 60px;
+  line-height: 5;
+  cursor: pointer;
+}
+/*# sourceMappingURL=astyle.css.map */
